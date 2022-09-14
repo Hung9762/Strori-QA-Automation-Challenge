@@ -1,7 +1,7 @@
 
 # Stori-QA-Automation-Challenge
 
-This is a resolution of the Stori Automation Challenge using Java & Selenium
+This is my resolution of the Stori Automation Challenge using Java & Selenium
 
 
 
@@ -27,7 +27,7 @@ git clone git@github.com:Hung9762/Stori-QA-Automation-Challenge-Javascript.git
 Open the repository with Intellij-IDE and wait for the dependencies to be downloaded and Installed.
 
 
-## Running Tests from terminal with Chrome/Edge/Firefox
+## Running Tests from the terminal with Chrome/Edge/Firefox
 
 To run tests, run the following command
 
@@ -41,10 +41,10 @@ To run tests, run the following command
 ## Tests results
 
 - A new directory with name **target** contains the reports and screenshots
-- The HTML & XML report is on the folder **target/surefire-reports**.
+- The HTML & XML report are inside the directory **target/surefire-reports**.
 - There is two version for the HTML report **index.html** and **emailable-report.html**.
-- Inside these reports you can see all the bonus parts like the odd characters and logs of steps the driver is executing.
-- The XML reports has the name **testng-results.xml**.
+- Inside these reports you can see all the bonus parts such as the odd characters task and logs of steps the driver is executing.
+- The XML report have the name **testng-results.xml**.
 
 ## HTML Report Structure
 - These are the html reports available after an execution
