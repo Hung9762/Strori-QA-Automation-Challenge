@@ -50,19 +50,20 @@ To run tests, run the following command
 
 ## HTML Report Structure
 - These are the html reports available after an execution
+
 ![Folder-Structure](images/HTML%20REPORT.PNG)
 
 - This is the xml report available after an execution
 
-- ![Folder-Structure](images/xml-report.PNG)
+![Folder-Structure](images/xml-report.PNG)
 
 - The screenshots are store within the report directory
 
-- ![Folder-Structure](images/screenshots.PNG)
+![Folder-Structure](images/screenshots.PNG)
 
 - Test steps are inside the HTML report/reporter
 
-- ![Folder-Structure](images/test-report.PNG)
+![Folder-Structure](images/test-report.PNG)
 
 
 
