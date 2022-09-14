@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Stori-board-suite" verbose="1" >
+    <test name="Stori-Challenge" >
+        <classes>
+            <class name="test.TC_HP1_CompleteFlow" />
+            <class name="test.TC_UHP1_No30daysGuaranteeTextIsVisible"></class>
+        </classes>
+    </test>
+</suite>
