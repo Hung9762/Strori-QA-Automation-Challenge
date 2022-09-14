@@ -32,12 +32,10 @@ Open the repository with Intellij-IDE and wait for the dependencies to be downlo
 To run tests, run the following command
 
 ```bash
-  mvn -Dbrowser=chrome test
-  mvn -Dbrowser=edge test
-  mvn -Dbrowser=firefox test
+  mvn clean && mvn -Dbrowser=chrome test
+  mvn clean && mvn -Dbrowser=edge test
+  mvn clean && mvn -Dbrowser=firefox test
 ```
-
-
 
 
 ## Tests results
@@ -76,6 +74,10 @@ Verify all the dependencies are installed, use the following command
 ```bash
   mvn verify
 ```
+#### Where is the RTM ?
+
+The RMT is within this repo with the name **Stori-QA-Automation-Challenge-Matrix.xlsx**
+
 ## Authors
 
 - [@hung9762](https://github.com/Hung9762)
