@@ -29,7 +29,7 @@ Open the repository with Intellij-IDE and wait for the dependencies to be downlo
 
 ## Running Tests from the terminal with Chrome/Edge/Firefox
 
-To run tests, run the following command
+To run tests with the supported browsers with the following commands
 
 ```bash
   mvn clean && mvn -Dbrowser=chrome test
